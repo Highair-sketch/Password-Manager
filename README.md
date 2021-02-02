@@ -1,2 +1,7 @@
 # Password-Manager
-You don't know where to save your password?
+Do you have troubles with your passwords?<br>
+This password manager will solve all your problems <br>
+Enjoy it.<br>
+
+
+
