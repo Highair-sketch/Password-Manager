@@ -2,7 +2,7 @@ from tkinter import *
 from  tkinter import messagebox
 from random import randint, choice , shuffle
 
-from pyperclip  import copy
+from pyperclip  import copy #pyperclip will copy immediately your new generated password, so that you can easily paste it on the website you need it
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 
 
